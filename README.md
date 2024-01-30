@@ -6,4 +6,4 @@ Chatbot which converts Wikipedia Page summary to speech summary.
 
 
 **Running instructions**
-  - install wikipedia and pyttsx3 and run
+  - Install MediaWiki API(pip install wikipedia) and pyttsx3(pip install pyttsx3) and run
